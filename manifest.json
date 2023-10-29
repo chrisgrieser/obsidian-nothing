@@ -2,7 +2,7 @@
 	"id": "nothing",
 	"name": "Nothing",
 	"description": "An Obsidian plugin that adds a no-op command. ",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.0",
 	"isDesktopOnly": false,
 	"author": "pseudometa",
