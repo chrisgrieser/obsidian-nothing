@@ -36,7 +36,7 @@ replacePlaceholders "{{plugin-class}}" "$class"
 replacePlaceholders "{{year}}" "$year"
 
 osascript -e 'display notification "" with title "ℹ️ Write Permissions for workflow needed."'
-open -a "https://github.com/$repo/settings/actions"
+open "https://github.com/$repo/settings/actions"
 
 #───────────────────────────────────────────────────────────────────────────────
 
