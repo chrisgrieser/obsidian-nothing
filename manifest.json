@@ -1,7 +1,7 @@
 {
-	"id": "{{plugin-id}}",
-	"name": "{{plugin-name}}",
-	"description": "{{plugin-desc}}",
+	"id": "obsidian-nothing",
+	"name": "Nothing",
+	"description": "An Obsidian plugin that adds a no-op command. ",
 	"version": "0.1.0",
 	"minAppVersion": "1.0",
 	"isDesktopOnly": false,

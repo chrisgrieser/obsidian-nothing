@@ -3,9 +3,9 @@ https://github.com/obsidianmd/obsidian-releases/blob/master/community-plugins.js
 
     },
     {
-        "id": "{{plugin-id}}",
-        "name": "{{plugin-name}}",
+        "id": "obsidian-nothing",
+        "name": "Nothing",
         "author": "pseudometa",
-        "description": "{{plugin-desc}}",
-        "repo": "chrisgrieser/{{plugin-id}}"
+        "description": "An Obsidian plugin that adds a no-op command. ",
+        "repo": "chrisgrieser/obsidian-nothing"
     }

@@ -1,21 +1,11 @@
 import { Plugin } from "obsidian";
 
-export default class {{plugin-class}} extends Plugin {
-
+export default class ObsidianNothing extends Plugin {
 	async onload() {
-		console.info(this.manifest.name + " Plugin loaded.");
-		
 		this.addCommand({
-			id: "command-id",
-			name: "Command Name",
-			callback: () => this.myFunction(),
+			id: "nothing-noop",
+			name: "Do Nothing (no-op)",
+			callback: () => {},
 		});
 	}
-
-	async onunload() { console.info(this.manifest.name + " Plugin unloaded.") }
-	
-	myFunction () {
-		
-	}
-
 }
