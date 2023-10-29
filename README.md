@@ -8,6 +8,7 @@ This plugin adds a command that literally does nothing.
 allows you to disable system-hotkeys by mapping them to the `Nothing: Do
 Nothing` command. This way, you can for example disable the `⌘Q` hotkey on
 macOS, so you do not accidentally quit Obsidian.
+
 <img width="704" alt="Mapping cmd-q to 'nothing'" src="https://github.com/chrisgrieser/obsidian-nothing/assets/73286100/66b22076-5124-4b2e-81d3-c3e929562b95">
 
 ## Installation
