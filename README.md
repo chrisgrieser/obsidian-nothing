@@ -5,29 +5,12 @@ This plugin adds a command that literally does nothing.
 
 **WAIT, before you stop reading: this plugin still has a real use case!** It
 allows you to disable system-hotkeys by mapping them to the `Do Nothing`
-command. This way, you can for example disable the `⌘Q` hotkey on macOS, so you
-do not accidentally quit Obsidian.
-
-> Give him something by giving him nothing.  
-> *Tyrion Lannister*
+command. You can, for example, disable the `⌘Q` hotkey on macOS to avoid
+accidentally quitting Obsidian.
 
 <img width="50%" alt="Mapping cmd-q to 'nothing'" src="https://github.com/chrisgrieser/obsidian-nothing/assets/73286100/66b22076-5124-4b2e-81d3-c3e929562b95">
 
-## Installation
-For now, the plugin is still in beta. It can be installed with the [BRAT Plugin](https://github.com/TfTHacker/obsidian42-brat).
+<br><br>
 
-When published, it is going to be available in Obsidian's Community Plugin
-Browser via: `Settings` → `Community Plugins` → `Browse` → Search for *"Nothing"*
-
-<!-- vale Google.FirstPerson = NO -->
-## Credits
-Did this plugin enrich your life? Consider buying me a coffee :D
-
-<a href='https://ko-fi.com/Y8Y86SQ91' target='_blank'>
-<img
-	height='36'
-	style='border:0px;height:36px;'
-	src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3'
-	border='0'
-	alt='Buy Coffee at ko-fi.com'
-/></a>
+> Give him something by giving him nothing.  
+> *Tyrion Lannister*
