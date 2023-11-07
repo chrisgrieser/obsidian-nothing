@@ -1,7 +1,7 @@
 {
 	"id": "nothing",
 	"name": "Nothing",
-	"description": "An Obsidian plugin that adds a no-op command. ",
+	"description": "Adds a no-op command to disable hotkeys.",
 	"version": "1.0.1",
 	"minAppVersion": "1.0",
 	"isDesktopOnly": false,
