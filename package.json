@@ -2,7 +2,7 @@
 	"name": "Nothing",
 	"description": "An Obsidian plugin that adds a no-op command. ",
 	"author": "Chris Grieser",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"keywords": [],
 	"license": "MIT",
 	"main": "main.js",
