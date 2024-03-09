@@ -28,7 +28,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v1
         with:
-          node-version: "*"
+          node-version: "21.x"
 
       - name: Build Plugin
         run: |
