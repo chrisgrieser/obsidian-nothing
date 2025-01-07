@@ -2,7 +2,7 @@
 	"id": "nothing",
 	"name": "Nothing",
 	"description": "Adds a no-op command to disable hotkeys.",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"minAppVersion": "1.0",
 	"isDesktopOnly": false,
 	"author": "Chris Grieser (aka pseudometa)",
